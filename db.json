@@ -45,9 +45,32 @@
 			"name": "ENT"
 		}
 	],
-	"sub_categories": [{
+	"sub_categories": [
+		
+		{
 			"id": 1,
 			"category_id": 1,
+			"name": "Vision-Right Eye",
+			"type": [{
+				"6/6": "6/6",
+				"6/12": "6/12",
+				"6/18": "6/18"
+			}]
+		},
+		{
+			"id": 2,
+			"category_id": 1,
+			"name": "Vision-Left Eye",
+			"type": [{
+				"6/6": "6/6",
+				"6/12": "6/12",
+				"6/18": "6/18"
+			}]
+		},
+		
+		{
+			"id": 3,
+			"category_id": 2,
 			"name": "Teeth",
 			"type": [{
 				"Normal": "normal",
@@ -56,8 +79,29 @@
 			}]
 		},
 		{
-			"id": 1,
-			"category_id": 1,
+			"id": 4,
+			"category_id": 2,
+			"name": "Gums",
+			"type": [{
+				"Normal": "normal",
+				"Swollen": "swollen",
+				"Red": "Red",
+				"Pus": "Pus"
+			}]
+		},
+		{
+			"id": 5,
+			"category_id": 3,
+			"name": "Teeth",
+			"type": [{
+				"Normal": "normal",
+				"discoluration": "Ford",
+				"tartar": "Tartar"
+			}]
+		},
+		{
+			"id": 6,
+			"category_id": 3,
 			"name": "Gums",
 			"type": [{
 				"Normal": "normal",
