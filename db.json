@@ -1,12 +1,73 @@
 {
-"employees":
-[
-    {"id": 1, "name": "John", "age":22},
-    {"id": 2, "name": "Bran", "age":24},
-    {"id": 3, "name": "Eric", "age":34},
-    {"id": 4, "name": "Richardson", "age":30},
-    {"id": 4, "name": "Vishal", "age":30},
-    {"id": 4, "name": "Simrat", "age":30}
+	"employees": [{
+			"id": 1,
+			"name": "John",
+			"age": 22
+		},
+		{
+			"id": 2,
+			"name": "Bran",
+			"age": 24
+		},
+		{
+			"id": 3,
+			"name": "Eric",
+			"age": 34
+		},
+		{
+			"id": 4,
+			"name": "Richardson",
+			"age": 30
+		},
+		{
+			"id": 4,
+			"name": "Vishal",
+			"age": 30
+		},
+		{
+			"id": 4,
+			"name": "Simrat",
+			"age": 30
+		}
 
-    ]
+	],
+
+	"Categories": [{
+			"id": 1,
+			"name": "Eye"
+		},
+		{
+			"id": 2,
+			"name": "Denta"
+		},
+		{
+			"id": 3,
+			"name": "ENT"
+		}
+	],
+	"sub_categories": [{
+			"id": 1,
+			"category_id": 1,
+			"name": "Teeth",
+			"type": [{
+				"Normal": "normal",
+				"discoluration": "Ford",
+				"tartar": "Tartar"
+			}]
+		},
+		{
+			"id": 1,
+			"category_id": 1,
+			"name": "Gums",
+			"type": [{
+				"Normal": "normal",
+				"Swollen": "swollen",
+				"Red": "Red",
+				"Pus": "Pus"
+			}]
+		}
+
+	]
+
+
 }
