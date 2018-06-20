@@ -67,31 +67,31 @@
 				"6/18": "6/18"
 			}]
 		},
-		
 		{
 			"id": 3,
-			"category_id": 2,
-			"name": "Teeth",
+			"category_id": 1,
+			"name": "Color Blindness",
 			"type": [{
-				"Normal": "normal",
-				"discoluration": "Ford",
-				"tartar": "Tartar"
+				"Yes": "Yes",
+				"No": "No"
+		
 			}]
 		},
 		{
 			"id": 4,
-			"category_id": 2,
-			"name": "Gums",
+			"category_id": 1,
+			"name": "Eye Examination",
 			"type": [{
-				"Normal": "normal",
-				"Swollen": "swollen",
-				"Red": "Red",
-				"Pus": "Pus"
+				"Swelling": "Swelling",
+				"Redness": "Redness",
+				"Discharge": "Discharge"
+			
 			}]
 		},
+		
 		{
 			"id": 5,
-			"category_id": 3,
+			"category_id": 2,
 			"name": "Teeth",
 			"type": [{
 				"Normal": "normal",
@@ -101,13 +101,53 @@
 		},
 		{
 			"id": 6,
-			"category_id": 3,
+			"category_id": 2,
 			"name": "Gums",
 			"type": [{
 				"Normal": "normal",
 				"Swollen": "swollen",
 				"Red": "Red",
 				"Pus": "Pus"
+			}]
+		},
+		{
+			"id": 7,
+			"category_id": 2,
+			"name": "Arrangement of Teeth",
+			"type": [{
+				"Normal": "normal",
+				"Not Normal": "Not Normal"
+				
+			}]
+		},
+		{
+			"id": 8,
+			"category_id": 3,
+			"name": "Hearing Right Ear",
+			"type": [{
+				"Normal": "normal",
+				"Not Normal": "Not Normal"
+			}]
+		},
+		{
+			"id": 9,
+			"category_id": 3,
+			"name": "Hearing Left Ear",
+			"type": [{
+				"Normal": "normal",
+				"Not Normal": "Not Normal"
+			}]
+		},
+		{
+			"id": 9,
+			"category_id": 3,
+			"name": "Ear Examination",
+			"type": [{
+				"Normal": "normal",
+				"Wax": "Wax",
+				"Infection": "Infection",
+				"Injury": "Injury"
+
 			}]
 		}
 
