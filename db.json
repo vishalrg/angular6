@@ -1,37 +1,5 @@
 {
-	"employees": [{
-			"id": 1,
-			"name": "John",
-			"age": 22
-		},
-		{
-			"id": 2,
-			"name": "Bran",
-			"age": 24
-		},
-		{
-			"id": 3,
-			"name": "Eric",
-			"age": 34
-		},
-		{
-			"id": 4,
-			"name": "Richardson",
-			"age": 30
-		},
-		{
-			"id": 4,
-			"name": "Vishal",
-			"age": 30
-		},
-		{
-			"id": 4,
-			"name": "Simrat",
-			"age": 30
-		}
-
-	],
-
+	
 	"Categories": [{
 			"id": 1,
 			"name": "Eye"
