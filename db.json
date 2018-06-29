@@ -124,17 +124,17 @@
 	"overview": [{
 			"id": 1,
 			"name": "Empathy Overview",
-			"desc":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+			"description":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
 		},
 		{
 			"id": 2,
 			"name": "Sympthy Overview 2",
-			"desc":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+			"description":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
 		},
 		{
 			"id": 3,
 			"name": "Sympthy Overview 3333",
-			"desc":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+			"description":"Lorem ipsum  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
 		}
 	]
 
